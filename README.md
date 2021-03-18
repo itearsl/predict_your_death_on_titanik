@@ -1,2 +1,4 @@
-# predict_your_death_on_titanik
-simple neural network that predict your death on Titanik
+# neural network with Titanic dataset
+This neural network predicts chance to stay alive on Titanic.
+
+Tensorflow was used in the project
